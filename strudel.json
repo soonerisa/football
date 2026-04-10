@@ -1,0 +1,4 @@
+{
+  "_base": "https://raw.githubusercontent.com/soonerisa/football/main/",
+  "football": ["pad1t.wav", "pad2t.wav","vi_gr1.wav","vi_gr2.wav","vi_nova1.wav","vi_nova2.wav","vi_nova3.wav","vi_sax1.wav","vi_sax2.wav"]
+}
